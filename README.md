@@ -1,3 +1,3 @@
-# node-js-basic-exericise-dicoding
+# node-js-basic-exercise-dicoding
 
-answer dicoding node-js-basic-exericise
+answer dicoding node-js-basic-exercise
